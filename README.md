@@ -1,24 +1,191 @@
-# 💫 About Me:
-Abhishek Kumar<br>AI/ML Developer | Data Analyst | Programmer<br>Email: abhisaini236900@gmail.com<br><br>EDUCATION:<br>-Seth Jai Parkash Mukand Lal Institute Of<br>Engineering And Technology,<br>Bachelors of Computer Application (BCA)<br>2023 – 2026 | Radaur<br>-Mukand lal national School,<br>Senior Secondary Education,<br>HBSE, XIIth<br>2022 – 2023 | Radaur <br><br>SKILLS:<br>Python, Java, C  <br>Pandas, NumPy, Matplotlib, Seaborn  <br>Scikit-learn, TensorFlow, PyTorch  <br>MySQL, MongoDB  <br>Docker, Jupyter Notebook, ChatGPT, Gamma<br>
 
+# 🔱 TECHY ABHI
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abis4ini) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek kumar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@techyabhi04) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhisaini236900@gmail.com) 
+<div align="center">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abhi04110&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=abhi04110&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi04110&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=100&lines=Abhishek+Kumar;AI%2FML+Developer;Data+Analyst;Full+Stack+Developer;Tech+Enthusiast)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhi04110&label=Profile%20Views&color=FFD700&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/abhi04110?color=FFD700&label=GitHub%20Followers&style=flat" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/abhi04110?color=FFD700&label=GitHub%20Stars&style=flat" alt="GitHub Stars" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abhi04110&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abhi04110&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 **GitHub Statistics**
+
+<div align="center">
+
+<!-- GitHub Stats Cards -->
+<a href="https://github.com/abhi04110">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi04110&show_icons=true&theme=dark&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff&border_color=FFD700&hide_border=false&include_all_commits=true&count_private=true" height="180" />
+</a>
+
+<a href="https://github.com/abhi04110">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi04110&theme=dark&background=0d1117&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=ffffff&sideNums=FFD700&currStreakLabel=FFD700&sideLabels=ffffff&dates=ffffff&border=FFD700" height="180" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/abhi04110">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi04110&layout=compact&theme=dark&bg_color=0d1117&title_color=FFD700&text_color=ffffff&border_color=FFD700&hide_border=false&langs_count=8" height="180" />
+</a>
+
+</div>
+
+---
+
+## 🛠 **Tech Stack**
+
+<div align="center">
+
+### **Programming Languages**
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+</p>
+
+### **AI/ML & Data Science**
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
+</p>
+
+### **Databases & Cloud**
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+</p>
+
+### **Tools & Platforms**
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+</p>
+
+</div>
+
+---
+
+## 🏆 **GitHub Trophies**
+
+<div align="center">
+
+<a href="https://github.com/abhi04110">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhi04110&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</a>
+
+</div>
+
+---
+
+## 📞 **Connect With Me**
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="mailto:abhisaini236900@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://t.me/a6h1ii">
+        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="30">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/abhi04110">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/abhishek-saini-025923300">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://youtube.com/@techyabhi04">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="30">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://abhiiport.netlify.app/">
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" height="30">
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🎓 **Education**
+
+```
+
+🎯 BCA (2023-2026)
+📚 Seth Jai Parkash Mukand Lal Institute of Engineering
+📍 Radaur
+
+🎓 XIIth (2022-2023)
+📖 Mukand Lal National School (HBSE)
+📍 Radaur
+
+```
+
+---
+
+<div align="center">
+
+## ⭐ **Support**
+
+If you like my work, please consider giving a star!
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/abhi04110?tab=repositories">
+        <img src="https://img.shields.io/badge/⭐_Star_Repositories-FFD700?style=for-the-badge" height="30">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/abhi04110">
+        <img src="https://img.shields.io/badge/👤_Follow-FFD700?style=for-the-badge" height="30">
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h3>🚀 "Building Tomorrow with Today's Code"</h3>
+
+<p>
+  <i>Always open to collaborations and exciting projects!</i>
+</p>
+
+<p>
+  <b>🔱 TECHY ABHI 🔱</b>
+</p>
+
+</div>
