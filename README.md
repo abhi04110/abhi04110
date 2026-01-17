@@ -1,4 +1,3 @@
-
 # 🔱 TECHY ABHI
 
 <div align="center">
@@ -19,20 +18,10 @@
 
 <div align="center">
 
-<!-- GitHub Stats Cards -->
-<a href="https://github.com/abhi04110">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi04110&show_icons=true&theme=dark&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff&border_color=FFD700&hide_border=false&include_all_commits=true&count_private=true" height="180" />
-</a>
-
-<a href="https://github.com/abhi04110">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi04110&theme=dark&background=0d1117&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=ffffff&sideNums=FFD700&currStreakLabel=FFD700&sideLabels=ffffff&dates=ffffff&border=FFD700" height="180" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/abhi04110">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi04110&layout=compact&theme=dark&bg_color=0d1117&title_color=FFD700&text_color=ffffff&border_color=FFD700&hide_border=false&langs_count=8" height="180" />
-</a>
+### **📈 GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi04110&theme=dark&background=0d1117&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=ffffff&sideNums=FFD700&currStreakLabel=FFD700&sideLabels=ffffff&dates=ffffff&border=FFD700" width="400" />
+</p>
 
 </div>
 
@@ -77,18 +66,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
 </p>
-
-</div>
-
----
-
-## 🏆 **GitHub Trophies**
-
-<div align="center">
-
-<a href="https://github.com/abhi04110">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhi04110&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</a>
 
 </div>
 
@@ -141,7 +118,7 @@
 
 ## 🎓 **Education**
 
-```
+
 
 🎯 BCA (2023-2026)
 📚 Seth Jai Parkash Mukand Lal Institute of Engineering
@@ -151,7 +128,7 @@
 📖 Mukand Lal National School (HBSE)
 📍 Radaur
 
-```
+
 
 ---
 
