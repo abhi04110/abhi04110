@@ -36,20 +36,25 @@
 
 <br>
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats - SIMPLE BADGES VERSION (No Images) -->
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhi04110&show_icons=true&theme=dark&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff&border_color=FFD700&border_radius=15&card_width=450&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-
-<img src="https://streak-stats.demolab.com?user=abhi04110&theme=dark&background=0d1117&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFD700&sideNums=FFD700&currStreakLabel=FFD700&sideLabels=ffffff&dates=ffffff&border=FFD700&border_radius=15" alt="GitHub Streak" height="180"/>
+[![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-View%20Profile-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/abhi04110)
+[![Contributions](https://img.shields.io/badge/Contributions-Active-FFD700?style=for-the-badge&logo=git&logoColor=black)](https://github.com/abhi04110)
+[![Public Repos](https://img.shields.io/badge/Public_Repos-10+-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/abhi04110?tab=repositories)
 
 </div>
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi04110&layout=compact&theme=dark&bg_color=0d1117&title_color=FFD700&text_color=ffffff&border_color=FFD700&border_radius=15&langs_count=8" alt="Top Languages" height="200"/>
+
+### 💻 Most Used Languages
+
+![Python](https://img.shields.io/badge/Python-40%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-25%25-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-20%25-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-15%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
 
@@ -142,12 +147,15 @@
 
 <br>
 
-<!-- GitHub Trophies -->
-## 🏅 GitHub Trophies
+<!-- Achievements - BADGES INSTEAD OF TROPHIES -->
+## 🏅 Achievements
 
 <div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=abhi04110&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=1&column=7)
+
+![AI ML Certified](https://img.shields.io/badge/🤖_AI%2FML_Certified-FFD700?style=for-the-badge&labelColor=0d1117)
+![Cybersecurity](https://img.shields.io/badge/🔒_Cybersecurity_Deloitte-FFD700?style=for-the-badge&labelColor=0d1117)
+![Web Dev](https://img.shields.io/badge/🌐_Web_Development-FFD700?style=for-the-badge&labelColor=0d1117)
+![Behavioral Skills](https://img.shields.io/badge/👥_Behavioral_Skills-FFD700?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
