@@ -13,7 +13,7 @@
 <!-- Badges -->
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=abhi04110&label=Profile%20Views&color=FFD700&style=for-the-badge&logo=github)
+  ![Profile Views](https://hits.sh/github.com/abhi04110.svg?style=for-the-badge&label=Profile%20Views&color=FFD700&labelColor=0d1117&logo=github)
   ![GitHub Followers](https://img.shields.io/github/followers/abhi04110?color=FFD700&label=Followers&style=for-the-badge&logo=github)
   ![GitHub Stars](https://img.shields.io/github/stars/abhi04110?color=FFD700&label=Stars&style=for-the-badge&logo=github)
   ![Repositories](https://img.shields.io/badge/Repositories-10+-FFD700?style=for-the-badge&logo=github)
