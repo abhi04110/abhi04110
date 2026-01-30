@@ -109,7 +109,7 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="40%">
       <h3>🎯 AI/ML Intern</h3>
       <p><b>Certiwise</b> | 07/2025 - 08/2025</p>
       <ul align="left">
@@ -118,7 +118,7 @@
         <li>Team Collaboration</li>
       </ul>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="40%">
       <h3>🎓 BCA Student</h3>
       <p><b>Seth Jai Parkash Mukand Lal Institute</b> | 2023-2026</p>
       <ul align="left">
