@@ -1,4 +1,5 @@
-<div align="center">
+
+readme_content = '''<div align="center">
 
 <!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=MOHD%20IKRAM&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" />
@@ -275,3 +276,9 @@ jobs:
           publish_dir: ./dist
           publish_branch: output
 -->
+'''
+
+with open('/mnt/agents/output/README.md', 'w', encoding='utf-8') as f:
+    f.write(readme_content)
+
+print("README.md saved successfully!")
