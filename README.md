@@ -35,12 +35,6 @@ readme_content = '''<div align="center">
 
 ## 🚀 About Me
 
-<div align="center">
-
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-</div>
-
 - 🎓 **BCA Student** at *Seth Jai Parkash Mukand Lal Institute of Technology*
 - 📍 Based in **Yamuna Nagar, Haryana, India**
 - 🧠 Passionate about **AI, Machine Learning & Generative AI**
@@ -49,7 +43,12 @@ readme_content = '''<div align="center">
 - 🤝 Open to **collaborations** on AI/ML and Web Development projects
 - ⚡ Fun fact: I can debug code faster than I can decide what to eat! 😄
 
-<br clear="both"/>
+<br>
+
+<!-- Coding GIF - Centered below text -->
+<div align="center">
+  <img alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</div>
 
 ---
 
@@ -173,7 +172,7 @@ readme_content = '''<div align="center">
 <div align="center">
 
 <!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=ikram255592&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&border_radius=15" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=ikram255592&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&border_radius=15&count_private=true&include_all_commits=true" height="180" />
 
 <!-- Top Languages Card -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikram255592&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&border_radius=15" height="180" />
@@ -282,3 +281,4 @@ with open('/mnt/agents/output/README.md', 'w', encoding='utf-8') as f:
     f.write(readme_content)
 
 print("README.md saved successfully!")
+print(f"Total lines: {len(readme_content.splitlines())}")
