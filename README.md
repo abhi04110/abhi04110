@@ -299,8 +299,54 @@
 
 <br/>
 
+<!-- ░░░░░░░░░░░░░░  ACHIEVEMENTS  ░░░░░░░░░░░░░░ -->
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="32" />
+  &nbsp;Milestones & Achievements
+</h2>
+
+<br/>
+
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abhi04110&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Trophies"/>
+  <!-- Pull Shark / PR Master -->
+  <a href="https://github.com/abhi04110?tab=achievements">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Shark.png" width="58" alt="Pull Shark" title="Pull Shark - PR Specialist" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Galaxy Brain / Problem Solver -->
+  <a href="https://github.com/abhi04110?tab=achievements">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="58" alt="Galaxy Brain" title="Galaxy Brain - Solution Provider" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Quickdraw / Lightning Speed -->
+  <a href="https://github.com/abhi04110?tab=achievements">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="58" alt="Quickdraw" title="Quickdraw - Fast Responder" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Gold Medal / Top Contributor -->
+  <a href="https://github.com/abhi04110?tab=achievements">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" width="58" alt="Top Rank" title="Gold Contributor" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Starstruck / Star Magnet -->
+  <a href="https://github.com/abhi04110?tab=achievements">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="58" alt="Starstruck" title="Starstruck - Code Stargazer" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Rocket / Builder Milestone -->
+  <a href="https://github.com/abhi04110?tab=achievements">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="58" alt="Deployer" title="Ship Fast & Deploy" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🏆_Profile_Badges-Unlocked-0d0221?style=for-the-badge&labelColor=1a0438&color=FFD700" alt="Badges"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/⚡_Level-Developer_Pro-0d0221?style=for-the-badge&labelColor=1a0438&color=B47FFF" alt="Rank"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/💎_Rank-Tier_1-0d0221?style=for-the-badge&labelColor=1a0438&color=7b2ff7" alt="Tier"/>
 </div>
 
 <br/>
