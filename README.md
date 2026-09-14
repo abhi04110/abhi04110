@@ -81,14 +81,12 @@
 
 <p align="center">
   <a href="https://github.com/abhi04110">
-    <img src="https://streak-stats.herokuapp.com?user=abhi04110&theme=tokyonight&background=0d0221&ring=FFD700&fire=FFD700&currStreakLabel=B47FFF&sideLabels=e0c8ff&border=7b2ff7&border_radius=10&stroke=7b2ff7&currStreakNum=FFD700&sideNums=e0c8ff" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi04110&theme=tokyonight&background=0d0221&ring=FFD700&fire=FFD700&currStreakLabel=B47FFF&sideLabels=e0c8ff&border=7b2ff7&border_radius=10&stroke=7b2ff7" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/abhi04110">
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhi04110&bg_color=0d0221&color=B47FFF&line=7b2ff7&point=FFD700&area=true&area_color=3d0099&hide_border=false&border_color=7b2ff7&radius=10&title_color=FFD700" alt="Contribution Graph" />
-  </a>
+  <img width="95%" src="https://ghchart.rshah.org/7b2ff7/abhi04110" alt="Abhi's Contribution Chart" />
 </p>
 
 <div align="center">
