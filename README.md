@@ -216,9 +216,10 @@
     </td>
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/🎓  BCA  Student-0d0221?style=for-the-badge&logoColor=white" alt="student"/><br/><br/>
-      <img src="https://img.shields.io/badge/SJPML Institute-2023 – 2026-7b2ff7?style=flat-square&labelColor=0d0221" alt="date"/>
+      <img src="https://img.shields.io/badge/JMIT-2023 – 2026-7b2ff7?style=flat-square&labelColor=0d0221" alt="date"/>
       <br/><br/>
       <p align="left">
+        &nbsp;&nbsp;✅ Bachelor of Computer Applications
         &nbsp;&nbsp;✅ Major: AI/ML &amp; Data Science<br/>
         &nbsp;&nbsp;✅ Location: Radaur, Haryana
       </p>
