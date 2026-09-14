@@ -5,7 +5,7 @@
 
 <!-- ░░░░░░░░░░░░░░  TYPING ANIMATION  ░░░░░░░░░░░░░░ -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=2500&pause=1000&color=B47FFF&center=true&vCenter=true&repeat=true&width=620&height=60&lines=👋+Hello%2C+I'm+Abhishek+Kumar!;🤖+AI+%2F+ML+Developer;📊+Data+Analyst+%26+Scientist;🌐+Full+Stack+Developer;⚡+Tech+Enthusiast+%26+Problem+Solver;🚀+Building+Tomorrow+with+Code!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&duration=2500&pause=1000&color=B47FFF&center=true&vCenter=true&repeat=true&width=620&height=60&lines=%F0%9F%91%8B+Hello%2C+I'm+Abhishek+Kumar!;%F0%9F%A4%96+AI+%26+ML+Developer;%F0%9F%93%8A+Data+Analyst+%26+Scientist;%F0%9F%8C%90+Full+Stack+Developer;%E2%9A%A1+Tech+Enthusiast+%26+Problem+Solver;%F0%9F%9A%80+Building+Tomorrow+with+Code!" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -64,45 +64,50 @@
 <!-- ░░░░░░░░░░░░░░  GITHUB STATS  ░░░░░░░░░░░░░░ -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"/> &nbsp;GitHub Statistics
 
-<br/>
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30" />
+  &nbsp;GitHub Analytics & Performance
+</h2>
+
+<p align="center">
+  <a href="https://github.com/abhi04110">
+    <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=abhi04110&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=FFD700&icon_color=B47FFF&text_color=e0c8ff&bg_color=0d0221&border_color=7b2ff7&border_radius=10" alt="GitHub Stats" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/abhi04110">
+    <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abhi04110&layout=compact&langs_count=6&theme=tokyonight&title_color=FFD700&text_color=e0c8ff&bg_color=0d0221&border_color=7b2ff7&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/abhi04110">
+    <img src="https://streak-stats.herokuapp.com?user=abhi04110&theme=tokyonight&background=0d0221&ring=FFD700&fire=FFD700&currStreakLabel=B47FFF&sideLabels=e0c8ff&border=7b2ff7&border_radius=10&stroke=7b2ff7&currStreakNum=FFD700&sideNums=e0c8ff" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/abhi04110">
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhi04110&bg_color=0d0221&color=B47FFF&line=7b2ff7&point=FFD700&area=true&area_color=3d0099&hide_border=false&border_color=7b2ff7&radius=10&title_color=FFD700" alt="Contribution Graph" />
+  </a>
+</p>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=abhi04110&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=FFD700&icon_color=B47FFF&text_color=e0c8ff&bg_color=0d0221&border_color=7b2ff7&border_radius=12" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi04110&layout=compact&langs_count=8&theme=tokyonight&title_color=FFD700&text_color=e0c8ff&bg_color=0d0221&border_color=7b2ff7&border_radius=12" alt="Top Languages"/>
-
-</div>
+**⚡ Core Stack Breakdown**
 
 <br/>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=abhi04110&theme=tokyonight&background=0d0221&ring=FFD700&fire=FFD700&currStreakLabel=B47FFF&sideLabels=e0c8ff&border=7b2ff7&border_radius=12&stroke=7b2ff7&currStreakNum=FFD700&sideNums=e0c8ff" alt="Streak Stats"/>
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi04110&bg_color=0d0221&color=B47FFF&line=7b2ff7&point=FFD700&area=true&area_color=3d0099&hide_border=false&border_color=7b2ff7&radius=12&title_color=FFD700" width="96%" alt="Activity Graph"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-### 💻 Most Used Languages
-
-<img src="https://img.shields.io/badge/Python-40%25-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d0221" alt="Python"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d0221" alt="Python"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Java-25%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d0221" alt="Java"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d0221" alt="JavaScript"/>
 &nbsp;
-<img src="https://img.shields.io/badge/C-20%25-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=0d0221" alt="C"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d0221" alt="TypeScript"/>
 &nbsp;
-<img src="https://img.shields.io/badge/JavaScript-15%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d0221" alt="JS"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d0221" alt="Java"/>
+&nbsp;
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0d0221" alt="C++"/>
 
 </div>
-
-<br/>
 
 <!-- ░░░░░░░░░░░░░░  ANIMATED LINE  ░░░░░░░░░░░░░░ -->
 <div align="center">
