@@ -209,9 +209,9 @@
       <img src="https://img.shields.io/badge/Certiwise-07%2F2025 – 08%2F2025-7b2ff7?style=flat-square&labelColor=0d0221" alt="date"/>
       <br/><br/>
       <p align="left">
-        &nbsp;&nbsp;✅ ML Models &amp; Data Preprocessing<br/>
-        &nbsp;&nbsp;✅ Model Evaluation &amp; Deployment<br/>
-        &nbsp;&nbsp;✅ Team Collaboration
+        &nbsp;&nbsp;✅ Python AI/ML<br/>
+        &nbsp;&nbsp;✅ Team Collaboration<br/>
+        &nbsp;&nbsp;✅ Model Evaluation &amp; Deployment
       </p>
     </td>
     <td align="center" width="50%">
@@ -219,9 +219,9 @@
       <img src="https://img.shields.io/badge/JMIT-2023 – 2026-7b2ff7?style=flat-square&labelColor=0d0221" alt="date"/>
       <br/><br/>
       <p align="left">
-        &nbsp;&nbsp;✅ Bachelor of Computer Applications
-        &nbsp;&nbsp;✅ Major: AI/ML &amp; Data Science<br/>
-        &nbsp;&nbsp;✅ Location: Radaur, Haryana
+        &nbsp;&nbsp;✅ BCA<br/>
+        &nbsp;&nbsp;✅ Location: Radaur, Haryana<br/>
+        &nbsp;&nbsp;✅ Major: AI/ML &amp; Data Science
       </p>
     </td>
   </tr>
