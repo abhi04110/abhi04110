@@ -1,6 +1,6 @@
 <!-- ░░░░░░░░░░░░░░░  HEADER  ░░░░░░░░░░░░░░░ -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:1a0a4c,60:3d0099,100:7b2ff7&height=240&section=header&text=TECHY%20ABHI&fontSize=88&fontColor=FFD700&animation=twinkling&fontAlignY=38&desc=AI%2FML%20Developer%20%7C%20Data%20Analyst%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=60&descColor=e0c8ff" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:1a0a4c,60:3d0099,100:7b2ff7&height=240&section=header&text=%20ABHI&fontSize=88&fontColor=FFD700&animation=twinkling&fontAlignY=38&desc=AI%2FML%20Developer%20%7C%20Data%20Analyst%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=60&descColor=e0c8ff" width="100%" alt="header"/>
 </div>
 
 <!-- ░░░░░░░░░░░░░░  TYPING ANIMATION  ░░░░░░░░░░░░░░ -->
@@ -457,7 +457,7 @@
 
 <div align="center">
 
-### 🔱 TECHY ABHI 🔱
+### 🔱 ABHI 🔱
 
 *Always open to collaborations and exciting projects!*
 
