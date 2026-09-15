@@ -2,20 +2,32 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Har 12 ghante me run hoga
+    - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - name: Clone repo
+        uses: actions/checkout@v4
+
+      - name: Generate the snake files
+        uses: Platane/snk@v3
         with:
           github_user_name: abhi04110
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#B47FFF&color_dots=#0d0221,#1a0438,#7b2ff7,#FFD700
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
