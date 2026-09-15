@@ -86,7 +86,7 @@
 </p>
 
 <p align="center">
-  <img width="95%" src="https://ghchart.rshah.org/7b2ff7/abhi04110" alt="Abhi's Contribution Chart" />
+  <img width="100%" src="https://raw.githubusercontent.com/abhi04110/abhi04110/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 <div align="center">
